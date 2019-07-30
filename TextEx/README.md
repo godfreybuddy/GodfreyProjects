@@ -1,5 +1,5 @@
 ## About
-TextEx was a semester capstone simulation of a software engineering job. The project itself was to create an application 
+TextEx was a semester capstone simulation of software engineering in the field. The project itself was to create an application 
 based off of stakeholder's specifications in which a user could load and store various texts and then search through all cataloged 
 texts to return queried information.
 
