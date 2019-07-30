@@ -1,2 +1,1 @@
-# Post-graduate group project portfolio
-# Large, full-semester projects.
+# Post-graduate group project portfolio of larger, capstone projects that took a full semester term.
