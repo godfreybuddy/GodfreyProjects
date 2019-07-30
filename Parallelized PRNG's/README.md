@@ -1,4 +1,4 @@
-# cs470prngs FINAL VERSION
+# Parallelized PRNG's
 Repository for group project for CS 470 of Spring 2019
 
 URL FOR THE REPOSITORY:
