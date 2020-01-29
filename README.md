@@ -1,2 +1,2 @@
 ## GodfreyProjects
-Semester long capstone projects
+CS Capstone Project Portfolio
